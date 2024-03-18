@@ -181,7 +181,3 @@ class Widget {
 document.addEventListener("DOMContentLoaded", function () {
 	new Widget("#recommendation-widget", "600px", "600px");
 });
-
-module.exports = {
-	Widget,
-};
